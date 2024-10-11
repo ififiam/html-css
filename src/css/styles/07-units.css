@@ -38,6 +38,15 @@ body {
   font-size: 3vw;
 }
 
+.unit-number {
+  font-size: 10px;
+  line-height: 1;
+
+  p {
+    font-size: 20px;
+  }
+}
+
 /* CSS의 색상 값 */
 .unit-color-name {
   color: darkgreen;
