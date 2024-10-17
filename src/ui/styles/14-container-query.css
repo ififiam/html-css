@@ -1,0 +1,11 @@
+@import "./../../common/mordern-reset.css";
+@import "./../../common/base.css";
+
+h1,
+p {
+  line-height: 1.5;
+}
+
+h1 {
+  margin-block: 1rem;
+}
